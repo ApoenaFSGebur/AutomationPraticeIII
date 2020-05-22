@@ -35,4 +35,4 @@ Execute o código.
 
 OBS: o Código está em Driver.java
 
-Lembre-se, é necessário que o e-mail seja alterado para que seja feito um novo cadastro!
+Lembrete: É necessário que o usuário ja tenha realizado um cadastro no site: http://seubarriga.wcaquino.me/login e que utilize seu e-mail e sua senha. 
